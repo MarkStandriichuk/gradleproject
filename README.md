@@ -7,4 +7,4 @@
 Create a new Gradle project then grab the test1.java from this repository
 and insert it in into a src/test/java/ folder
 
-All dependencies you can find in a build.gradle file of this repo
+All dependencies you can find in the build.gradle file of this repo
